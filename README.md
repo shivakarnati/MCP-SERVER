@@ -1,1 +1,1 @@
-Tried to create MCP-SERVER, with the help of "https://github.com/modelcontextprotocol/python-sdk"
+Tried to recreate MCP-SERVER, with the help of "https://github.com/alejandro-ao/mcp-server-example"
